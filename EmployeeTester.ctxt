@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EmployeeTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Creates\ the\ Employee's\ that\ will\ populate\ the\ TreeMap.\r\n
+comment2.params=empMap
+comment2.target=void\ displayEmp_Map(java.util.Map)
+comment2.text=\r\n\ This\ method\ diplays\ all\ Employee's\ in\ the\ TreeMap.\r\n\ @param\ empMap\ the\ Employee\ TreeMap\r\n
+comment3.params=empMap\ keyToFind
+comment3.target=void\ findByKey(java.util.Map,\ java.lang.Integer)
+comment3.text=\r\n\ This\ method\ checks\ to\ see\ if\ a\ employee\ number\ is\ in\ the\ TreeMap\ and\ desplays\ different\ strings\ for\ if\ it's\ true\ or\ false.\r\n\ @param\ empMap\ the\ Employee's\ TreeMap\r\n\ @param\ keyToFind\ the\ Employee's\ number\ as\ a\ key\ to\ find\r\n
+comment4.params=empMap
+comment4.target=void\ empSal_Greater_Than_60K(java.util.Map)
+comment4.text=\r\n\ This\ method\ uses\ searches\ the\ TreeMap\ for\ Employee's\ with\ a\ salary\ greater\ than\ $60k\ and\ displays\ them.\r\n\ @param\ empMap\ the\ Employee's\ TreeMap\r\n
+numComments=5
