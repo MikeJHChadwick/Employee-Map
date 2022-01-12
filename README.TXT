@@ -7,6 +7,4 @@ all he/she needs to know. The comments should usually include at least:
 PROJECT TITLE: Employee Map
 PURPOSE OF PROJECT: Creating a TreeMap and then populating it with Employee objects
 VERSION or DATE: 4/22/2020
-HOW TO START THIS PROJECT:
 AUTHORS: Michael Chadwick
-USER INSTRUCTIONS:
